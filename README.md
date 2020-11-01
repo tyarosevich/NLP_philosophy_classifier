@@ -21,3 +21,22 @@ This is a simple experiment in NLP. Pull requests are welcome, though the nature
 
 ![Example Singular Values](part1_s_values.png)
 ![Example Reduced Dimension Scatter Plot](readme_scatter.png)
+
+# Code Example
+```
+#%% Classify with KNN, Part 1
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+
+neigh = KNeighborsClassifier(n_neighbors=1)
+neigh.fit(features_train1, labels_train1)
+predict1 = neigh.predict(features_test1)
+
+# Training accuracy
+print("The training accuracy is: ")
+print(accuracy_score(labels_train1, neigh.predict(features_train1)))
+
+# Test accuracy
+print("The test accuracy is: ")
+print(accuracy_score(labels_test1, predict1))
+```
