@@ -1,0 +1,17 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction and Overview}{1}{section.1}%
+\contentsline {section}{\numberline {2}Theoretical Background}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bag-of-words and Text Vectorization}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Classifiers - {K-Nearest Neighbors and Discriminant Analysis}}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}K-Nearest Neighbors}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}LDA and QDA}{2}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Algorithm Implementation and Development}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data Selection}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Data Pre-processing}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Classification}{4}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Visualization}{4}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Computational Results}{4}{section.4}%
+\contentsline {section}{\numberline {5}Summary and Conclusions}{4}{section.5}%
+\contentsline {section}{Appendix 1 - Python Functions}{6}{section*.9}%
+\contentsline {section}{Appendix 2 - Code Listing}{6}{section*.10}%
+\contentsfinish 

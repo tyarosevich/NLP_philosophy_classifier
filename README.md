@@ -1,3 +1,7 @@
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
 # Classifying Philosophy Papers As 'Good,' 'Bad,' 'Continental,' and 'Analytic'
 
 This project is an experiment to see if simple, statistical classifier methods could be used to classify a relatively small corpus of philosophy papers. 
