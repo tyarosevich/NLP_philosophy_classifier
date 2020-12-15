@@ -4,7 +4,7 @@
 
 # Classifying Philosophy Papers As 'Good,' 'Bad,' 'Continental,' and 'Analytic'
 
-This project is an experiment to see if simple, statistical classifier methods could be used to classify a relatively small corpus of philosophy papers. [Here](https://github.com/tyarosevich/fourier_domain_signal_processing/blob/master/Final%20Presentation%20for%20Github/time_freq_analysis_music.pdf) is a presentation on the project, including visualization, methods, and background.
+This project is an experiment to see if simple, statistical classifier methods could be used to classify a relatively small corpus of philosophy papers. [Here](https://github.com/tyarosevich/NLP_philosophy_classifier/blob/master/Final_Presentation/philosophy_paper_classif_pres.pdf) is a presentation on the project, including visualization, methods, and background.
 
 # Motivation
 
